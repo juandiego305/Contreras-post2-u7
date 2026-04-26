@@ -53,8 +53,15 @@ Implementaciones que conectan el exterior con el núcleo de negocio.
 
 ## 📸 Evidencias de Verificación
 1. **Creación de Producto**: Captura del POST exitoso con código 201.
+<img width="1096" height="768" alt="image" src="https://github.com/user-attachments/assets/acf6479f-1840-4965-b8e9-981e8bc0340a" />
+
 2. **Listado de Inventario**: Captura del GET mostrando los productos guardados.
+
+<img width="1099" height="783" alt="image" src="https://github.com/user-attachments/assets/b2a16abf-6f3c-4e8e-bf25-be3000c761b2" />
+
 3. **Validación de Stock**: Captura del error 400 cuando se intenta reducir más stock del disponible.
+<img width="1127" height="737" alt="image" src="https://github.com/user-attachments/assets/99d24b35-b412-4bde-a25a-65f73296eab4" />
+
 
 ## 🧑‍💻 Autor
 * **Nombre**: Juan Diego Contreras Garcia
