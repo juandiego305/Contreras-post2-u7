@@ -1,0 +1,12 @@
+C:\Users\Pc\Contreras-post2-u7\src\main\java\com\example\hexagonal\adapter\in\web\ProductoController.java
+C:\Users\Pc\Contreras-post2-u7\src\main\java\com\example\hexagonal\adapter\out\persistence\ProductoJpaEntity.java
+C:\Users\Pc\Contreras-post2-u7\src\main\java\com\example\hexagonal\adapter\out\persistence\ProductoJpaRepository.java
+C:\Users\Pc\Contreras-post2-u7\src\main\java\com\example\hexagonal\adapter\out\persistence\ProductoRepositoryAdapter.java
+C:\Users\Pc\Contreras-post2-u7\src\main\java\com\example\hexagonal\config\BeanConfiguration.java
+C:\Users\Pc\Contreras-post2-u7\src\main\java\com\example\hexagonal\domain\model\Producto.java
+C:\Users\Pc\Contreras-post2-u7\src\main\java\com\example\hexagonal\domain\port\in\ActualizarStockUseCase.java
+C:\Users\Pc\Contreras-post2-u7\src\main\java\com\example\hexagonal\domain\port\in\CrearProductoUseCase.java
+C:\Users\Pc\Contreras-post2-u7\src\main\java\com\example\hexagonal\domain\port\in\ListarProductosUseCase.java
+C:\Users\Pc\Contreras-post2-u7\src\main\java\com\example\hexagonal\domain\port\out\ProductoRepositoryPort.java
+C:\Users\Pc\Contreras-post2-u7\src\main\java\com\example\hexagonal\domain\service\ProductoDomainService.java
+C:\Users\Pc\Contreras-post2-u7\src\main\java\com\example\hexagonal\HexagonalApplication.java

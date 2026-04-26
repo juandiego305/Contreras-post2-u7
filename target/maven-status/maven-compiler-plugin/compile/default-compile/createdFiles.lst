@@ -1,0 +1,12 @@
+com\example\hexagonal\adapter\in\web\ProductoController.class
+com\example\hexagonal\adapter\out\persistence\ProductoJpaRepository.class
+com\example\hexagonal\HexagonalApplication.class
+com\example\hexagonal\domain\port\in\ListarProductosUseCase.class
+com\example\hexagonal\adapter\out\persistence\ProductoJpaEntity.class
+com\example\hexagonal\domain\model\Producto.class
+com\example\hexagonal\config\BeanConfiguration.class
+com\example\hexagonal\domain\service\ProductoDomainService.class
+com\example\hexagonal\domain\port\in\ActualizarStockUseCase.class
+com\example\hexagonal\domain\port\in\CrearProductoUseCase.class
+com\example\hexagonal\domain\port\out\ProductoRepositoryPort.class
+com\example\hexagonal\adapter\out\persistence\ProductoRepositoryAdapter.class
